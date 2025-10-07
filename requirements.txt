@@ -1,0 +1,11 @@
+﻿transformers==4.44.2
+torch>=2.3.0
+PyPDF2==3.0.1
+docx==0.2.4
+speechrecognition==3.10.4
+pydub==0.25.1
+wave==0.0.2
+Pillow==10.4.0
+matplotlib==3.9.2
+torchvision>=0.18.0
+numpy>=1.26.0
